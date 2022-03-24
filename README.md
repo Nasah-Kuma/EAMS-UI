@@ -1,3 +1,3 @@
-# Employee-Attendance-Management-Software
+# Employee-Attendance-Management-Service(EAMS)
 
-<h5>Minimum Viable Product</h5>
+<p>An application that manages employee attendance<p>
